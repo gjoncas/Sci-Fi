@@ -15,7 +15,7 @@ This paper compares Hugo and Nebula award-winning short stories using text minin
 ## How to Replicate
 <ol>
 
-<li>Unzip the data file into your working directory</li>
+<li>Unzip the data files into your working directory</li>
 
 <li>Open sci-fi.R in RStudio (for R v3.5.1 or later)</li>
 
@@ -39,7 +39,7 @@ This paper compares Hugo and Nebula award-winning short stories using text minin
 
 <li>My code heavily uses the global assignment operator <<-, which feels like bad practice.</li>
 
-<li>NL thought of comparing the Hugo & Nebula award, and collected the data.</li>
+<li>NL thought of comparing the Hugo & Nebula awards, and collected the data.</li>
 
 <li>GJ thought of the theoretical framework, and wrote the code and prose.
 </li>
